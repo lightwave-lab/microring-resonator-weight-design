@@ -1,0 +1,8 @@
+name: resonator-weight-design
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - bokeh
+  - scipy
+  - numpy
