@@ -6,3 +6,4 @@ dependencies:
   - bokeh
   - scipy
   - numpy
+  - appmode

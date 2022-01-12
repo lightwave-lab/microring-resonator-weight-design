@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lightwave-lab/microring-resonator-weight-design/HEAD?labpath=index.ipynb)
+# Trying the notebook online
+Click the binder icon above to run the notebook in the cloud.
 # Installation
 
 You will need the following python packages to run this notebook:
