@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lightwave-lab/microring-resonator-weight-design/HEAD?urlpath=%2Fapps%2Fmicroring_resonator_metrics.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lightwave-lab/microring-resonator-weight-design/9b4a5b884182b3ebf4883e515b6ec3df62af2679?urlpath=%2Fapps%2Fmicroring_resonator_metrics.ipynb)
 # Trying the notebook online
 Click the binder icon above to run the notebook in the cloud. Inside the notebook, view the source code by clicking the "Edit App" button on the top bar.
 # Installation on your own computer
